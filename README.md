@@ -23,7 +23,7 @@ Purchase behavior based on loyalty card usage
 
 Designed a fully interactive dashboard using slicers and dynamic charts, allowing users to filter by year, country, and product attributes for quick and intuitive analysis.
 
-<img width="521" height="260" alt="Image" src="https://github.com/user-attachments/assets/776cca2f-fa3e-40e8-bdef-03c4fb73133c" />
+<img width="521" height="263" alt="Image" src="https://github.com/user-attachments/assets/1f2dbd23-081d-4642-b5b1-05bff126ae36" />
 
 **📊 Key Insights**
 
