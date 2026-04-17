@@ -23,8 +23,6 @@ Purchase behavior based on loyalty card usage
 
 Designed a fully interactive dashboard using slicers and dynamic charts, allowing users to filter by year, country, and product attributes for quick and intuitive analysis.
 
-<p align="center"><img src=""C:\Users\ashde.RANJANA\Documents\GeeksForGeeks Practice\Excel\Coffee Sales Project\Output.png""></p>
-
 **📊 Key Insights**
 
 Geographic concentration: United States is the clear revenue leader (~2054.42), while Ireland (~112.23) and the United Kingdom (~44.87) are much smaller contributors.
